@@ -17,6 +17,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity
         implements View.OnClickListener {
 
+
     private Button button;
     private LinearLayout layout;
     private String text;
