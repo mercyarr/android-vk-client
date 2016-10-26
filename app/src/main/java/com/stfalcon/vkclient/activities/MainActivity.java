@@ -1,4 +1,4 @@
-package com.stfalcon.vkclient;
+package com.stfalcon.vkclient.activities;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,6 +9,8 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
+
+import com.stfalcon.vkclient.R;
 
 /**
  * Created by troy379 on 30.09.16.
